@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LiveStreamingFB</string>
+
+    <string name="facebook_app_id">172202543447431</string>
+    <string name="fb_login_protocol_scheme">fb172202543447431</string>
+    <string name="server"></string>
+</resources>
